@@ -1,1 +1,1 @@
-# -2.-SQL.-SELECT-INSERT-UPDATE-DELETE
+Практична робота 2. SQL.
